@@ -2,7 +2,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[My take on a JS and CSS challenge](https://gonndr.github.io/job-filter-landing-page/)
+[My take on a JS and CSS challenge](https://gonndr.github.io/job-filter-list/)
 
 ## The challenge
 
